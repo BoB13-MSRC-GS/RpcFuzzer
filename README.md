@@ -7,7 +7,7 @@
     <strong>It also automatically generates the Rpc Client code.</strong>
   </p>
   <p align='center'>
-  <img src='pics/tool.webp'>
+  <img src='pics/tool.gif'>
   </p>
 </div>
 
