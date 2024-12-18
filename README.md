@@ -1,5 +1,6 @@
 <div align='center'>
-  <h1><code>RpcFuzzer (BoB13-MSRC_GASAN)</code></h1>
+  <h1><code>RpcFuzzer
+(BoB13-MSRC_GASAN)</code></h1>
   <p>
     <strong>A tool that fuzzes the method of the Rpc Interface. It operates by receiving an IDL file that is automatically saved from the improved RpcView as input.</strong>
   </p>
